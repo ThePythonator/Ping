@@ -1,7 +1,7 @@
 
 # Ping!
 
-![Build](https://github.com/32blit/32blit-boilerplate/workflows/Build/badge.svg)
+![Build](https://github.com/ThePythonator/Ping/workflows/Build/badge.svg)
 
 This isn't Pong. It looks rather like it though...
 
