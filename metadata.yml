@@ -2,8 +2,8 @@ title: Ping!
 description: Not Pong
 author: ThePythonator
 splash:
-  file: assets/no-image.png
+  file: assets/image.png
 icon:
-  file: assets/no-icon.png
-version: v1.0.0
+  file: assets/icon.png
+version: v1.0.1
 
