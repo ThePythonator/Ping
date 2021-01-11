@@ -72,6 +72,9 @@ void render(uint32_t time) {
         screen.text(std::to_string(scoreOne), minimal_font, Point(60, 8), true, TextAlign::center_center);
         screen.text(std::to_string(scoreTwo), minimal_font, Point(SCREEN_WIDTH - 60, 8), true, TextAlign::center_center);
     }
+    else if (state == 4) {
+        //screen.text("Press A", minimal_font, Point(SCREEN_WIDTH / 2, 92), true, TextAlign::center_center);
+    }
 
     if (state == 0)
     {
